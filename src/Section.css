@@ -1,0 +1,25 @@
+.sec a{
+    box-shadow: 0 3px 3px 0 rgb(0, 0,0,.1);
+    font-weight: 700;
+    background-color: #1d809f!important;
+    border-color: #1d809f!important;
+    color: white!important;
+    text-decoration: none;
+    padding: 1.25rem 2.5rem;
+    border-radius: .25rem;
+    display: inline-block
+}
+ a:hover{
+    
+        color:black;
+        background-color:white;
+        border-color: #1d2124;
+    
+}
+.sec p{
+    font-size:50px;
+    margin-top: 0;
+}
+.sec{
+    margin-bottom: 50px;
+}

@@ -1,0 +1,28 @@
+header {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 300px;
+}
+header h1{
+  
+    margin: 0 ;
+    font-size: 4rem;
+    color:black;
+    
+}
+header p{
+    font-weight: 700;
+    font-size: 1.75rem;
+    color: black;
+}
+header a{
+    box-shadow: 0 3px 3px 0 rgb(0, 0,0,.1);
+    font-weight: 700;
+    background-color: #1d809f!important;
+    border-color: #1d809f!important;
+    color: white!important;
+    text-decoration: none;
+    padding: 1.25rem 2.5rem;
+    border-radius: .25rem;
+    display: inline-block
+}

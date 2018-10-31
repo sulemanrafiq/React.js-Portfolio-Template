@@ -1,0 +1,31 @@
+.Cont h2{
+    font-size: 2rem;
+}
+.Cont p{
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.Cont a{
+    margin-top: 50px;
+    box-shadow: 0 3px 3px 0 rgb(0, 0,0,.1);
+    font-weight: 700;
+    color: #fff;
+    background-color: #343a40;
+    border-color: #343a40;
+    text-decoration: none;
+    padding: 1.25rem 2.5rem;
+    border-radius: .25rem;
+    display: inline-block
+    
+}
+.Cont a:hover{
+    color: #fff;
+    background-color: #23272b;
+    border-color: #1d2124;
+}
+.Cont {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 30px;
+}
